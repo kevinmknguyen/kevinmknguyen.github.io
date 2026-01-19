@@ -3,6 +3,8 @@ layout: home
 title: Home
 --- 
 
-# Test
+Greetings!
 
-If you can see this, then it worked.
+I am currently in my second year of college, studying Computer Science at the University of Texas at Austin.
+
+My current interests are in the intersections of Artificial Intelligence, Machine Learning, and Robotics.
