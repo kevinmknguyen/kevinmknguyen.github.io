@@ -1,7 +1,12 @@
 title: "Kevin Nguyen"
-description: "Currently @ UTCS 2024 - 2027"
+description: "kevin2241@utexas.edu"
+github_username: hypercricket
 theme: minima
+
 
 header_pages:
   - index.md
-  - about.md
+  - projects.md
+  - blog.md
+
+
