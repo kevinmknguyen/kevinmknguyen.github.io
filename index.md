@@ -14,7 +14,7 @@ title: Home
 
 I am currently in my second year of college, studying Computer Science at the University of Texas at Austin.
 
-My current interests are in the intersections of Artificial Intelligence, Machine Learning, and Robotics.
+My current interests are in the intersections of Artificial Intelligence, Reinforcement Learning, and Robotics.
 
 Some other things I'm interested in are:
 - Running
