@@ -22,4 +22,4 @@ Some other things I'm interested in are:
 - Cooking
 - Reading
 - Research
-- Learning new languages
+- Learning new languages (Currently Learning French!)
