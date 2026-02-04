@@ -17,9 +17,9 @@ I am currently in my second year of college, studying Computer Science at the Un
 My current interests are in the intersections of Artificial Intelligence, Reinforcement Learning, and Robotics.
 
 Some other things I'm interested in are:
-- Running
+- Running (Here's my [Strava Account](https://www.strava.com/athletes/195453208?share_sig=A493FCEF1770183415))
 - Brazilian Jiu Jitsu
 - Cooking
 - Reading
 - Research
-- Learning new languages (Currently Learning French!)
+- Learning new languages (Currently Learning French! Also have a 2000+ day streak on Duolingo learning Spanish, French, and Vietnamese)
