@@ -23,3 +23,4 @@ Some other things I'm interested in are:
 - Reading
 - Research
 - Learning new languages (Currently Learning French! Also have a 2000+ day streak on Duolingo learning Spanish, French, and Vietnamese)
+- Volunteering with [Texas Helping Hands](https://www.instagram.com/texashelpinghand/)
