@@ -30,7 +30,7 @@ permalink: /quotes/
 - The blood of the covenant is thicker than the water of the womb - *Unknown*
 - Greatness is built when nobody is watching - *Unknown*
 - Once you are ready to fail you are ready to succeed - *Unknown*
-- Consistently good is better than occassionally great - *Jeff Cunningham*
+- Consistently good is better than occasionally great - *Jeff Cunningham*
 - Genetics deals the cards, environment plays the hand - *Bill Beswick*
 - There's a thousand excuses but not a single reason - *Bill Beswick*
 - If you're not exhausted by the end of the day, what are you reserving that energy for? - *Nick Bare*

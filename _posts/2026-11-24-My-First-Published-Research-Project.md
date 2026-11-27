@@ -26,7 +26,7 @@ In the modern state-of-the-art (SOTA), robot data collection is mostly unguided.
 
 The default answer in robot learning has been to collect broadly and rely on scale. However, recent work has shown us that carefully curated datasets can beat much larger, unfiltered ones when targeting a specific downstream domain, which tells us that not all demonstrations are equally useful. However, we can only know which subsets of data are good only **after** we've collected all of the data, so the time and labor of collecting that data has already been paid.
 
-We want to move data collection *upstream*: instead of filtering data after collection, we guid humans toward collecting the most useful demonstrations at the start.
+We want to move data collection *upstream*: instead of filtering data after collection, we guide humans toward collecting the most useful demonstrations at the start.
 
 ## What is our clever idea?
 We propose Guided Data Collection (GDC), which asks which data to collect in the data collection environments to maximize performance on the deployment task.
